@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect_Four", "Connect_Four\Connect_Four.csproj", "{C84878D2-97C8-4BD3-BBFE-E26331602331}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardControl", "BoardControl\BoardControl.csproj", "{AC9F26FA-8455-4A76-8610-5879595DC126}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C84878D2-97C8-4BD3-BBFE-E26331602331}.Debug.ActiveCfg = Debug|.NET
+		{C84878D2-97C8-4BD3-BBFE-E26331602331}.Debug.Build.0 = Debug|.NET
+		{C84878D2-97C8-4BD3-BBFE-E26331602331}.Release.ActiveCfg = Release|.NET
+		{C84878D2-97C8-4BD3-BBFE-E26331602331}.Release.Build.0 = Release|.NET
+		{AC9F26FA-8455-4A76-8610-5879595DC126}.Debug.ActiveCfg = Debug|.NET
+		{AC9F26FA-8455-4A76-8610-5879595DC126}.Debug.Build.0 = Debug|.NET
+		{AC9F26FA-8455-4A76-8610-5879595DC126}.Release.ActiveCfg = Release|.NET
+		{AC9F26FA-8455-4A76-8610-5879595DC126}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
